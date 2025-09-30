@@ -6,4 +6,4 @@ My interests include:
 - Fantasy Football (American Football)
 - Hanging out with my French Bulldog back home in Vancouver, Canada
 
-My GitHub homepage can be found [her](https://github.com/jjl125)
+My GitHub homepage can be found [here](https://github.com/jjl125)
